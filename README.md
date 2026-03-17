@@ -21,7 +21,7 @@ This component adds a new model configuration to the AXP2101 sensor which determ
 
 ```yaml
 external_components:
-  - source: github://SmartyVan/esphome-axp2101
+  - source: github://vantreeseba/esphome-axp2101
     components: [ axp2101 ]
 ```
 
